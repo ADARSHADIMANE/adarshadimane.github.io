@@ -11,7 +11,7 @@ permalink:        pretty
 
 # Setup
 title:            'machinelearning'
-tagline:          'medium.com'
+tagline:          'change.com'
 description:      'Data Scientist @ Practo'
 url:              http://machinelearningmedium.com
 baseurl:          ''
@@ -20,9 +20,9 @@ paginate_path:    '/page:num/'
 
 author:
   name: 'Shams S'
-  email: 'shams.sam[at]live[dot]com'
-  github: shams-sam
-  facebook: shams.sam
+  email: 'adarshadimane[at]gmail[dot]com'
+  github: ADARSHADIMANE
+  facebook: ADARSHADIMANE
   linkedin: shams-sheikh-20328154
   linkedin_link: 'https://www.linkedin.com/in/shams-sheikh-20328154'
   kaggle_link: 'https://www.kaggle.com/shamssam'
